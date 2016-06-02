@@ -1,6 +1,7 @@
 Supplementary material for the paper: 
 “Implementing a Reverse Dictionary, based on word definitions, using a Node-Graph Architecture” 
 by Sushrut Thorat and Varad Choudhari
+Preprint at ArXiV: http://arxiv.org/abs/1606.00025
 
 The folder “demo_jupyter” contains a Jupyter notebook with python code (‘RD_demo_WN_3k.ipynb’) to implement the reverse dictionary. It uses the WordNet 3k BLM, which can be found under the subfolder “data”. The variable ‘input_phrase’ accepts the input phrase, which is processed as explained in the paper. The output words will be outputted at the end of the notebook.
 
